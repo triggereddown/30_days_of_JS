@@ -42,3 +42,26 @@ for(let i=0;i<2;i++)
         console.log(i);
     }
 }
+
+//Answers
+// 20
+// new
+// true
+// number
+// string
+// boolean
+// 10
+// 20
+// 1
+// number
+// a
+// string
+// true
+// boolean
+// []
+// object
+// c:\Users\deepm\Resoursec\30_days_of_JS\day1_Variables.js:41
+//         i=40;
+//          ^
+
+// TypeError: Assignment to constant variable.
