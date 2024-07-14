@@ -38,3 +38,22 @@ if(res==true)
 else{
     console.log("Negetive")
 }
+
+//OUTPUTS
+// 30
+// 10
+// 200
+// 2
+// 0
+// 40
+// 30
+// true
+// false
+// true
+// true
+// false
+// false
+// false
+// true
+// true
+// Negetive
