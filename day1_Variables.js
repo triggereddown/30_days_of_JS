@@ -43,7 +43,9 @@ for(let i=0;i<2;i++)
     }
 }
 
-// Answers
+
+//Answers
+
 // 20
 // new
 // true
@@ -64,4 +66,3 @@ for(let i=0;i<2;i++)
 //         i=40;
 //          ^
 
-// TypeError: Assignment to constant variable.
